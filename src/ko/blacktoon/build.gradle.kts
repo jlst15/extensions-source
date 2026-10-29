@@ -13,6 +13,6 @@ keiyoushi {
     source {
         name = "블랙툰"
         lang = "ko"
-        baseUrl = "https://blacktoon.me"
+        baseUrl = "https://blacktoon426.com"
     }
 }
